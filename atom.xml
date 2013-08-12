@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[אריאל]]></title>
+  <link href="http://qqq.urfreedvds.com/atom.xml" rel="self"/>
+  <link href="http://qqq.urfreedvds.com/"/>
+  <updated>2013-08-12T09:52:33+03:00</updated>
+  <id>http://qqq.urfreedvds.com/</id>
+  <author>
+    <name><![CDATA[אריאל]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[title3 Pamela Bumpers]]></title>
+    <link href="http://qqq.urfreedvds.com/blog/2013/08/04/slug2-Pamela-Bumpers/"/>
+    <updated>2013-08-04T00:00:00+03:00</updated>
+    <id>http://qqq.urfreedvds.com/blog/2013/08/04/slug2-Pamela-Bumpers</id>
+    <content type="html"><![CDATA[<p>test1</p>
+
+<p>Pamela Bumpers</p>
+
+<h2>123</h2>
+
+<p>dfdf</p>
+
+<p>1</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[title1 Pamela Bumpers]]></title>
+    <link href="http://qqq.urfreedvds.com/blog/2013/07/25/slug2-Pamela-Bumpers/"/>
+    <updated>2013-07-25T00:00:00+03:00</updated>
+    <id>http://qqq.urfreedvds.com/blog/2013/07/25/slug2-Pamela-Bumpers</id>
+    <content type="html"><![CDATA[<p>test2</p>
+
+<p>Pamela Bumpers</p>
+
+<h2>123</h2>
+
+<p>גגג</p>
+
+<h1>Dell</h1>
+
+<p>12121</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[title2 Pamela Bumpers]]></title>
+    <link href="http://qqq.urfreedvds.com/blog/2013/07/25/slug1-Pamela-Bumpers/"/>
+    <updated>2013-07-25T00:00:00+03:00</updated>
+    <id>http://qqq.urfreedvds.com/blog/2013/07/25/slug1-Pamela-Bumpers</id>
+    <content type="html"><![CDATA[<p>test3</p>
+
+<p>Pamela Bumpers</p>
+
+<h2>123</h2>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[ירון]]></title>
+    <link href="http://qqq.urfreedvds.com/blog/2013/07/24/%D7%99%D7%A8%D7%95%D7%9F/"/>
+    <updated>2013-07-24T00:00:00+03:00</updated>
+    <id>http://qqq.urfreedvds.com/blog/2013/07/24/ירון</id>
+    <content type="html"><![CDATA[<p>{1|2|3}</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[שנה טובה]]></title>
+    <link href="http://qqq.urfreedvds.com/blog/2013/07/23/%D7%A9%D7%A0%D7%94-%D7%98%D7%95%D7%91%D7%94/"/>
+    <updated>2013-07-23T00:00:00+03:00</updated>
+    <id>http://qqq.urfreedvds.com/blog/2013/07/23/שנה-טובה</id>
+    <content type="html"><![CDATA[<p>שנה טובה!!!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[dfdf]]></title>
+    <link href="http://qqq.urfreedvds.com/blog/2013/07/23/dfdf/"/>
+    <updated>2013-07-23T00:00:00+03:00</updated>
+    <id>http://qqq.urfreedvds.com/blog/2013/07/23/dfdf</id>
+    <content type="html"><![CDATA[<p>dfdfזסזס</p>
+]]></content>
+  </entry>
+  
+</feed>

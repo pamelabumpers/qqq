@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: ariel | אריאל]]></title>
+  <link href="http://qqq.urfreedvds.com/blog/categories/ariel/atom.xml" rel="self"/>
+  <link href="http://qqq.urfreedvds.com/"/>
+  <updated>2013-08-12T09:52:33+03:00</updated>
+  <id>http://qqq.urfreedvds.com/</id>
+  <author>
+    <name><![CDATA[אריאל]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[title2 Pamela Bumpers]]></title>
+    <link href="http://qqq.urfreedvds.com/blog/2013/07/25/slug1-Pamela-Bumpers/"/>
+    <updated>2013-07-25T00:00:00+03:00</updated>
+    <id>http://qqq.urfreedvds.com/blog/2013/07/25/slug1-Pamela-Bumpers</id>
+    <content type="html"><![CDATA[<p>test3</p>
+
+<p>Pamela Bumpers</p>
+
+<h2>123</h2>
+]]></content>
+  </entry>
+  
+</feed>

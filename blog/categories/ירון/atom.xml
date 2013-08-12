@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: ירון | אריאל]]></title>
+  <link href="http://qqq.urfreedvds.com/blog/categories/ירון/atom.xml" rel="self"/>
+  <link href="http://qqq.urfreedvds.com/"/>
+  <updated>2013-08-12T09:52:33+03:00</updated>
+  <id>http://qqq.urfreedvds.com/</id>
+  <author>
+    <name><![CDATA[אריאל]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[ירון]]></title>
+    <link href="http://qqq.urfreedvds.com/blog/2013/07/24/%D7%99%D7%A8%D7%95%D7%9F/"/>
+    <updated>2013-07-24T00:00:00+03:00</updated>
+    <id>http://qqq.urfreedvds.com/blog/2013/07/24/ירון</id>
+    <content type="html"><![CDATA[<p>{1|2|3}</p>
+]]></content>
+  </entry>
+  
+</feed>
